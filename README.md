@@ -2,3 +2,4 @@
 Hi, are u ready?
 GIT can create a new branch quickly and simply.
 haha
+test --no-ff merge
